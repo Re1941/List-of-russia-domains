@@ -1,4 +1,4 @@
-# Title: list of russian domains
+# Title: List Of Russian Domains
 # Homepage: https://github.com/Re1941/List-of-russia-domains
 # Number of entries: 1857
 1917live.red
