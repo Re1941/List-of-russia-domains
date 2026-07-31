@@ -1,3 +1,6 @@
+# Title: List Of Russian Domains WildCard
+# Homepage: https://github.com/Re1941/List-of-russia-domains
+# Number of entries: 1857
 *.1917live.red
 *.1l-hit.mail.ru
 *.1l-hit.vkplay.ru
